@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: "The Story of Operation Atlantis"
 author: Werner Stiefel
 editor: Werner Stiefel

@@ -41,3 +41,29 @@ We don’t know what will succeed until it’s working. I personally don’t kno
 I do want to help people though. I like helping because it makes me feel good when others around me do well, which feeds my should-be-full-but-isn’t ego. I want the people I know and talk to to do well, be happy, and achieve more than I have. I want this badly for people who ask for my advice. But I also know that nothing I say or share is going to be the one thing they need to do well.
 
 A lot of advice-asking is really just permission-asking. And you don’t need myself or anyone else to give you permission for most things you want to do with your business. You have it already. You had it from the start. You’ll have it still, for as long as you want to give it yourself.
+
+Ogilvy & Mather has created over $1,480,000,000 worth of advertising, and spent $4,900,000 tracking the results. Here, with all the dogmatism of brevity, are 38 of the things we have learned.
+
+## 1.) The most important decision.
+
+We have learned that the effect of your advertising on your sales depends more on this decision than on any other: How should you position your product?
+
+Should you position SCHWEPPES as a soft drink or as a mixer? Should you position DOVE as a product for dry skin or as a product which gets hands really clean? The results of your campaign depend less on how we write your advertising than on how your product is positioned. It follows that positioning should be decided before the advertising is created. Research can help. Look before you leap.
+ 
+## 2.) Large promise.
+
+The second most important decision is this: what should you promise the customer? A promise is nota claim, or a theme, or a slogan. It is a benefit for the consumer:
+It pays to promise a benefit which is unique and competitive. And the product must deliver the benefit you promise.
+
+Most advertising promises nothing. It is doomed to fail in the marketplace, “Promise, large promise, is the soul of an advertisement”-said Samuel Johnson.
+ 
+## 3.) Brand image.
+
+Every advertisement should contribute to the complex symbol which is the brand image. Ninety-five percent of all advertising is created ad hoc, Most products lack any consistent image from one year to another.
+
+The manufacturer who dedicates his advertising to building the most sharply defined personality for his brand gets the largest share of the market.
+ 
+## 4.) Big ideas.
+
+Unless your advertising is built on a BIG IDEA it will pass like a ship in the night. It takes a BIG IDEA to jolt the consumer out of his indifference to make him notice your advertising, remember it and take action.
+

@@ -26,3 +26,5 @@ Gotalk exists to make it easy for programs to talk with one another over the int
 <div class="blockquote-text"><cite>January 1</cite>Resolved…that it would be a dangerous delusion were a confidence in the men of our choice to silence our fears for the safety of our rights: that confidence is everywhere the parent of despotism: free government is founded in jealousy and not in confidence; it is jealousy and not confidence which prescribes limited Constitutions to bind down those whom we are obliged to trust with power…In questions of power then let no more be heard of confidence in man, but bind him down from mischief by the chains of the Constitution.<cite>Thomas Jefferson</cite></div>
 </div>
 </blockquote>
+
+> Testing block quote
